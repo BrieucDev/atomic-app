@@ -62,7 +62,5 @@ config.cacheStores = ({ FileStore, HttpStore }) => {
 config.cacheVersion = metroCacheVersion;
 
 // Integrate NativeWind with the Metro configuration.
-config.resolver.extraNodeModules = {
-  'react-native-worklets/plugin': path.resolve(__dirname, 'react-native-worklets-plugin.js'),
-};
+
 
