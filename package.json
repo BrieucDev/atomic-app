@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@expo/react-native-action-sheet": "^4.1.1",
+    "@expo/metro-runtime": "~5.0.5",
     "@expo/vector-icons": "^14.1.0",
     "@gorhom/bottom-sheet": "^5",
     "@nandorojo/galeria": "2.0.0-rc.4",
